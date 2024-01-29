@@ -246,6 +246,6 @@ Jetpack Backup can do a full website migration to a new host, migrate theme file
 #### Bug fixes
 - Firewall: prevent sites from crashing when updating Jetpack versions due to a missing generated file. 
 
---------(lin)
+--------(lincoln)
 
 [See the previous changelogs here](https://github.com/Automattic/jetpack/blob/trunk/projects/plugins/jetpack/CHANGELOG.md#changelog)
