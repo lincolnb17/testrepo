@@ -21,6 +21,7 @@ class Jetpack_Connection_Status {
 
 	/**
 	 * Filters the connection status API response of the Connection package and modifies isActive value expected by the UI.
+	 * LINCOlN
 	 *
 	 * @param array $status An array containing the connection status data.
 	 */
