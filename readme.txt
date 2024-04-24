@@ -5,7 +5,7 @@ Stable tag: 12
 Requires at least: 6.0
 Requires PHP: 5.6
 Tested up to: 6.1
-
+fdsfdsf
 Improve your WP security with powerful one-click tools like backup and malware scan. Get essential free tools including stats, CDN and social sharing.
 
 == Description ==
