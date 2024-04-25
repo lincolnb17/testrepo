@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: lincolnb17/wordpress-testing-automation@main
         with:
+          INSTAWP_DOMAIN: stage.instawp.io
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           INSTAWP_TOKEN: ${{secrets.INSTAWP_TOKEN}}
           INSTAWP_TEMPLATE_SLUG: react
