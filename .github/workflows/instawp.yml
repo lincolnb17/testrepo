@@ -8,7 +8,7 @@ jobs:
   create-wp-for-testing:
     runs-on: ubuntu-latest
     steps:
-      - uses: lincolnb17/wordpress-testing-automation@main
+      - uses: InstaWP/wordpress-testing-automation@main
         with:
           INSTAWP_DOMAIN: stage.instawp.io
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
