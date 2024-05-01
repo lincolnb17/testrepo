@@ -10,8 +10,10 @@ jobs:
     steps:
       - uses: nishantwebdev/wordpress-testing-automation@main
         with:
+          INSTAWP_DOMAIN: stage.instawp.io
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           INSTAWP_TOKEN: ${{secrets.INSTAWP_TOKEN}}
           INSTAWP_TEMPLATE_SLUG: github-actions
           REPO_ID: 175
           INSTAWP_ACTION: create-site-template
+         
