@@ -8,7 +8,7 @@ Tested up to: 6.1
 
 Improve your WP security with powerful one-click tools like backup and malware scan. Get essential free tools including stats, CDN and social sharing.
 
-== Description ==
+== Description l ==
 
 = The most popular WordPress plugin for just about everything. =
 
